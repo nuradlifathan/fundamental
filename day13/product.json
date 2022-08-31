@@ -1,0 +1,11 @@
+
+{
+    "productName" : "Kursi Kayu",
+    "price": 1000,
+    "variants": [
+        {
+            "color" : "purple",
+            "available" : "false"
+        }
+    ]
+}

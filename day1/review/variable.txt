@@ -1,0 +1,9 @@
+ketika membuat variable
+deklarasi = definition (var orang = suneo)
+orang = "doraemon" (redesign/redefine)
+
+var = bersifat global bisa di redeclare ata redefine ulang
+
+let = bersifat local bisa di redefine value nya tetapi tidak bisa redeclare
+
+const = scope dan tidak bisa di redeclare atau redefine
